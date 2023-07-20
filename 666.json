@@ -1,15 +1,15 @@
 {
     "items": [
         {
-            "url": "https://nx-cdn.nexus2wl.com/Images/banners/home/pp-kejutan-manis-desktop.gif",
+            "url": "//nx-cdn.nexus2wl.com/Images/banners/home/pp-kejutan-manis-desktop.gif",
             "alt": "Kejutan Manis Pragmatic Play"
         },
         {
-            "url": "https://nx-cdn.nexus2wl.com/Images/banners/home/pp-livecasino-vegas-bonanza-desktop.png",
+            "url": "//nx-cdn.nexus2wl.com/Images/banners/home/pp-livecasino-vegas-bonanza-desktop.png",
             "alt": "Pragmatic Play Vegas Bonanza"
         },
         {
-            "url": "https://nx-cdn.trgwl.com/Images/banners/home/mg-bonus-hunt-mobile.jpg",
+            "url": "//nx-cdn.trgwl.com/Images/banners/home/mg-bonus-hunt-mobile.jpg",
             "alt": "Microgaming Bonus Bonus Hunt Event"
         },
         {
@@ -17,11 +17,11 @@
             "alt": "MG Bonus Kejutan Harian"
         },
         {
-            "url": "https://nx-cdn.nexus2wl.com/Images/banners/home/pp-exclusive-power-merlin-desktop.png",
+            "url": "//nx-cdn.nexus2wl.com/Images/banners/home/pp-exclusive-power-merlin-desktop.png",
             "alt": "Microgaming Exclusive Power Merlin"
         },
         {
-            "url": "https://nx-cdn.nexus2wl.com/Images/banners/home/mg-exclusive-inca-desktop.gif",
+            "url": "//nx-cdn.nexus2wl.com/Images/banners/home/mg-exclusive-inca-desktop.gif",
             "alt": "Microgaing Inca Exclusive"
         },
         {
@@ -29,7 +29,7 @@
             "alt": "Play & Go Songkran Funfest Event"
         },
         {
-            "url": "//nx-cdn.trgwl.com/Images/banners/home/arcadia-mini-game-mobile.jpg",
+            "url": "//api2-evo.tr8n2games.com/images/id_promo_3375e880-8c1a-4917-9e1c-99ce3e5d90d1_1667881224993.png",
             "alt": "Arcadia Mini Game"
         }
     ]
